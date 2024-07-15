@@ -7,4 +7,4 @@ Tab View: Allows switching between different views using tabs.
 Sandwich Icon Animation: Animation when clicking the sandwich icon (hamburger button).
 Light and Dark Mode: Toggle between light and dark themes with smooth animation.
 
-Live Site:
+Live Site: https://telegram-clone-plum-beta.vercel.app
